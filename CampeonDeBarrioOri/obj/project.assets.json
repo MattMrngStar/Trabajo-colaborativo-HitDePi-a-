@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/mateobaronbotero/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mateobaronbotero/Projects/CampeonDeBarrioOri/CampeonDeBarrioOri/CampeonDeBarrioOri.csproj",
+      "projectName": "CampeonDeBarrioOri",
+      "projectPath": "/Users/mateobaronbotero/Projects/CampeonDeBarrioOri/CampeonDeBarrioOri/CampeonDeBarrioOri.csproj",
+      "packagesPath": "/Users/mateobaronbotero/.nuget/packages/",
+      "outputPath": "/Users/mateobaronbotero/Projects/CampeonDeBarrioOri/CampeonDeBarrioOri/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mateobaronbotero/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
